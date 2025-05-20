@@ -32,7 +32,7 @@ A simple yet elegant **Age Calculator** built with **HTML**, **CSS**, and **vani
 
 Here’s a look at the Age Calculator:
 
-![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/Age-Calculator/main/images/screenshot.png)
+![App Preview](https://raw.githubusercontent.com/Qasim-Rokeeb/Age-Calculator/main/screenshot.png)
 
 ---
 
