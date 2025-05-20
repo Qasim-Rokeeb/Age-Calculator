@@ -41,9 +41,7 @@ Here’s a look at the Age Calculator:
 ```bash
 age-calculator/
 │
-├── index.html          # Main HTML structure
-├── style.css           # CSS styling (embedded in HTML)
-└── images/             # Assets (e.g., preview images)
+└── index.html         # Complete project (HTML + CSS + JS)
 ````
 
 ---
